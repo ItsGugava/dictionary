@@ -47,7 +47,7 @@ Please ensure that your code follows the existing coding style and includes appr
 
 ## Contact
 
-If you have any questions, suggestions, or issues regarding this application, please feel free to contact me at [elizabet.bagdasaryan1@gmail.com].
+If you have any questions, suggestions, or issues regarding this application, please feel free to contact me at [otar.gugava.1@btu.edu.ge].
 
-Project Link: https://github.com/elizabet-bagdasaryan/dictionary
+Project Link: https://github.com/ItsGugava/dictionary
 
