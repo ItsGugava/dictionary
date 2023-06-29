@@ -17,7 +17,7 @@ The Dictionary Application is a feature-rich software tool that enables users to
 
 ## Installation
 
-1. Clone the repository: `https://github.com/elizabet-bagdasaryan/dictionary.git`
+1. Clone the repository: `https://github.com/ItsGugava/dictionary.git`
 2. Install dependencies: `npm install`
 3. Start the application: `npm run dev`
 
